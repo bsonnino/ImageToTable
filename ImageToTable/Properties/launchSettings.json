@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ImageToTable (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ImageToTable (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
